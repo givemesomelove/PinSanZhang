@@ -11,6 +11,7 @@
   "dependencies": {
     "mysql": "^2.18.1",
     "mysql2": "^3.14.1",
-    "nodejs-websocket": "^1.7.2"
+    "nodejs-websocket": "^1.7.2",
+    "ssh2": "^1.16.0"
   }
 }
